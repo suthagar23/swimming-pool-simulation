@@ -1,0 +1,6 @@
+Sivane,Sivan,18,0,Srilanka
+Varma,Nayan,21,0,Srilanka
+Yali,Param,56,0,Srilanka
+Gana,Kavi,21,0,Srilanka
+Kajan,Veeram,48,0,Srilanka
+Thuva,Thar,39,0,Srilanka

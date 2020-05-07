@@ -1,0 +1,8 @@
+Vimal,Raj,16,0,Srilanka,true,false,true,false,true,false,false,true,false
+Michal,John,18,1,Srilanka,true,true,false,false,true,false,false,true,false
+Prem,Raj,23,0,Srilanka,true,false,true,true,true,false,false,true,false
+Laval,Nagul,23,1,Srilanka,true,false,false,true,true,false,false,true,false
+Sutha,Kailas,21,0,Srilanka,true,true,true,false,false,false,true,true,false
+Sumi,Sutha,22,0,Srilanka,true,true,true,true,true,true,true,true,false
+Kiri,Senthil,29,0,Srilanka,true,true,true,false,false,false,false,true,true
+Ram,Chan,29,0,Srilanka,true,true,true,false,true,true,false,true,true

@@ -1,0 +1,6 @@
+Verat,HJ,36,0
+Devid,RT,42,0
+Bala,FH,28,0
+Murugan,BD,30,0
+Danial,SE,28,0
+Anojan,RD,45,0
