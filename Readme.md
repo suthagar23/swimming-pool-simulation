@@ -7,8 +7,8 @@
 
 ### Application Screenshot
 
-<img src="/home/kailayapathys/Downloads/140611L_Swimming_Competition/Swimming_Competition/images/screen.png" alt="Screenshot"/>
+<img src="/images/screen.png" alt="Screenshot"/>
 
 ### UML Class Diagram for the application
 
-<img src="/home/kailayapathys/Downloads/140611L_Swimming_Competition/Swimming_Competition/images/UML.png" alt="UML Diagram"/>
+<img src="/images/UML.png" alt="UML Diagram"/>
